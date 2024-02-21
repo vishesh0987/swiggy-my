@@ -7,4 +7,15 @@
     margin-left: 13% !important;
     padding-top: 20px !important;
 }
+.bb:hover{
+    color: orange;
+    }
+    .bn{
+        box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+        
+    }
+    .jk{
+       overflow: scroll;
+    
+    }
 
