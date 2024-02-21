@@ -1,11 +1,10 @@
-.buttt{
-    border-radius: 15px;
-    padding: 6px 9px;
-    background-color: #fff;
-border: 1px solid rgba(0, 0, 0, 0.12) !important;
-font-size: 14px;
+.hjh{
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    outline: none;
+    border: none;
+}
+.ghj{
+    margin-left: 13% !important;
+    padding-top: 20px !important;
+}
 
-}
-.buttttt{
-    padding: 9px 9px ;
-}
